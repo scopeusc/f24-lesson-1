@@ -1,4 +1,4 @@
-# Scope Fall 24 Lesson 0
+# Scope Fall 24 Lesson 1
 
 ### Installation
 
